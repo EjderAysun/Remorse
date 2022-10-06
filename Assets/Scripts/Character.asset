@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f563ad0b87dd23241b75d93f2ef20833, type: 3}
+  m_Name: Character
+  m_EditorClassIdentifier: 
+  targetMoney: 3000
+  currentMoney: 300
+  betAmount: 0
+  didWin: 0
+  numberOfDaysLeft: 30
+  minRemorseValue: 20
+  maxRemorseValue: 80
+  whatDidPlay: nothing
+  remorsePointForExtortion: 0
+  maxMoneyEasyFirstRound: 80
+  maxMoneyEasySecondNormalRound: 105
+  maxMoneyEasySecondHardRound: 135
+  maxMoneyEasyThirdHardRound: 160
+  maxMoneyNormalFirstRound: 240
+  maxMoneyNormalSecondHardRound: 340
+  maxMoneyHardRound: 570
+  lastSliderValue: 50
+  donateAmount: 0
