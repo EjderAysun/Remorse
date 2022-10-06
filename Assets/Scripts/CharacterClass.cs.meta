@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e05781d84c3405b45932f6a41191ef11
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _characterPreset: {instanceID: 0}
+  - _remorseText: {instanceID: 0}
+  - _character: {instanceID: 0}
+  - _slider: {instanceID: 0}
+  - _warning: {instanceID: 0}
+  - _moneyInfo: {instanceID: 0}
+  - _info: {instanceID: 0}
+  - _playAgainButton: {instanceID: 0}
+  - _exitButton: {instanceID: 0}
+  - _horseRacing: {instanceID: 0}
+  - _extortion: {instanceID: 0}
+  - _donation: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
