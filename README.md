@@ -21,7 +21,7 @@ Remorse is a simple text-based strategy game.
 
 ---
 ## Status
-On hold; development is paused for now
+Released; project is complete, but might receive some updates
 
 ---
 ## Version
