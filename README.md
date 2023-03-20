@@ -3,6 +3,7 @@ Made in 76 hours for Mağara Jam #5.
 
 ---
 ## Table of Contents
+  * [Table of Contents](#table-of-contents)
   * [General Info](#general-info)
   * [Screenshots](#screenshots)
   * [Status](#status)
@@ -29,5 +30,5 @@ Released; project is complete, but might receive some updates
 
 ---
 ## Licence & Copyright
-© Ejder Aysun, Remorse
-Licensed under the [MIT Licence]
+© Ejder Aysun, Remorse  
+Licensed under the [MIT Licence](https://github.com/EjderAysun/Remorse/blob/main/LICENCE)
