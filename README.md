@@ -16,9 +16,9 @@ Remorse is a simple text-based strategy game.
 
 ---
 ## Screenshots
-![Screenshot_3](https://user-images.githubusercontent.com/71559273/194382560-504425b6-4060-4c66-8811-ea4e36dbeb74.png)
-![Screenshot_5](https://user-images.githubusercontent.com/71559273/194382553-7e3d7907-c3f3-474d-93ea-18f7c375013d.png)
-![Screenshot_4](https://user-images.githubusercontent.com/71559273/194382548-4e45555f-4d8c-4cae-954f-55f787eb6224.png)
+![game1](https://user-images.githubusercontent.com/71559273/194382560-504425b6-4060-4c66-8811-ea4e36dbeb74.png)
+![game2](https://user-images.githubusercontent.com/71559273/194382553-7e3d7907-c3f3-474d-93ea-18f7c375013d.png)
+![game3](https://user-images.githubusercontent.com/71559273/194382548-4e45555f-4d8c-4cae-954f-55f787eb6224.png)
 
 ---
 ## Status
