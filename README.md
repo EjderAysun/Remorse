@@ -22,7 +22,8 @@ Remorse is a text-based strategy game where you alternate between resorting to e
 
 ---
 ## Status
-Released; project is complete, but might receive some updates
+~~Released; project is complete, but might receive some updates~~  
+Project is complete  
 
 ---
 ## Version
