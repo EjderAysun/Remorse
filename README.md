@@ -12,7 +12,7 @@ Made in 76 hours for Mağara Jam #5.
 
 ---
 ## General Info
-Remorse is a simple text-based strategy game.
+Remorse is a text-based strategy game where you alternate between resorting to evil means to pay for your child's surgery and doing good deeds to keep your conscience clear, but your ultimate goal is to find the money for your child's surgery.
 
 ---
 ## Screenshots
